@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bhavvin-oza.github.io/sitemap.xml
